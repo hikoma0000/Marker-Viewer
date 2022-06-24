@@ -1,0 +1,4 @@
+execute as @e[type=marker,tag=!barrier,tag=!fire,tag=!light] at @s run particle block_marker sunflower[half=upper] ~ ~ ~ 0 0 0 0 0 force @a[predicate=marker-viewer:has_item,distance=..200]
+execute as @e[type=marker,tag=barrier] at @s run particle block_marker barrier ~ ~ ~ 0 0 0 0 0 force @a[predicate=marker-viewer:has_item,distance=..200]
+execute as @e[type=marker,tag=fire] at @s run particle block_marker fire ~ ~ ~ 0 0 0 0 0 force @a[predicate=marker-viewer:has_item,distance=..200]
+execute as @e[type=marker,tag=light] at @s run particle block_marker light ~ ~ ~ 0 0 0 0 0 force @a[predicate=marker-viewer:has_item,distance=..200]
