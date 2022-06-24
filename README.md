@@ -22,5 +22,6 @@
 | `barrier` | バリアブロックに変更 |
 | `light` | ライトブロックに変更 |
 
-##連絡
+## 連絡
+
 [@hikoma0000](https://twitter.com/hikoma0000
