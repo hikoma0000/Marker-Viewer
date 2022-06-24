@@ -7,7 +7,7 @@
 ## 使い方
 1. エンダーアイ に **Marker-Viewer** と名前を付ける (金床を使いましょう)
    
-   もしくは /loot give @s loot marker-viewer:get とコマンドを入力してください
+   もしくは /loot give @p loot marker-viewer:get とコマンドを入力してください
 2. 1でできたものを**オフハンド**に持つ
 3. Markerが表示される
 
