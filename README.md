@@ -24,4 +24,4 @@
 
 ## 連絡
 
-https://twitter.com/hikoma0000/
+https://twitter.com/hikoma0000
