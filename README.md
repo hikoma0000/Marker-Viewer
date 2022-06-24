@@ -5,7 +5,7 @@
 - 1.18.x
 
 ## ダウンロード方法
-右の [Releases](https://github.com/hikoma0000/Marker-Viewer/Releases) から自分のバージョンのものをダウンロードしてください
+右の [Releases](https://github.com/hikoma0000/Marker-Viewer/releases) から自分のバージョンのものをダウンロードしてください
 
 ## 使い方
 1. エンダーアイ に **Marker-Viewer** と名前を付ける (金床を使いましょう)
