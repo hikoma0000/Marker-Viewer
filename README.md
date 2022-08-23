@@ -3,6 +3,7 @@
 
 ## 動作確認ができたバージョン
 - 1.18.x
+- 1.19.x
 
 ## ダウンロード方法
 右の [Releases](https://github.com/hikoma0000/Marker-Viewer/releases) から自分のバージョンのものをダウンロードしてください
